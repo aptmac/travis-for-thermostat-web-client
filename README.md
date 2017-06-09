@@ -2,7 +2,7 @@
 
 AngularJS & Patternfly Application: Thermostat UI
 
-[![Build Status](https://travis-ci.org/aptmac/travis-for-thermostat-web-client.svg?branch=travis-setup)](https://travis-ci.org/aptmac/travis-for-thermostat-web-client
+[![Build Status](https://travis-ci.org/aptmac/travis-for-thermostat-web-client.svg?branch=travis-setup)](https://travis-ci.org/aptmac/travis-for-thermostat-web-client)
 
 [![Chat](https://img.shields.io/badge/chat-on%20freenode-brightgreen.svg)](https://webchat.freenode.net/?channels=#thermostat)
 
