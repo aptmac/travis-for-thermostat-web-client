@@ -7,6 +7,6 @@ env:
 install:
   - npm install
 before_script:
-  - bash setup-travis-config.sh
+  - bash setup-config-for-travis.sh
 script: 
   - npm run build
