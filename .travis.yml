@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "node"
+env:
+  - NODE_ENV=development
+  - NODE_ENV=testing
+install:
+  - npm install
+before_script:
+  - bash setup-travis-config.sh
+script: 
+  - npm run build
